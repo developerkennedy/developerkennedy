@@ -4,7 +4,6 @@
 
 > Olá seja bem vindo meu nome é KENNEDY, apaixonado por tecnologia e estou em processo de aprendizagem na área de desenvolvimento FRONT END.
 
----
 
 ## 🚀 Minhas Skills
 
